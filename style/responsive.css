@@ -1,0 +1,9 @@
+@media (max-width: 1200px) {
+
+	.grid_container{
+        background-color: aqua;
+        display:flex;
+        flex-direction: row;
+    }
+
+}
